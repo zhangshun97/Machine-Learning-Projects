@@ -3,7 +3,7 @@ Here are some mini-projects during the Machine Learning course in SDS, FDU, incl
 
 ## Final Project: Painting Authentication and Image Style Transfer
 
-- [Project page]()
+- [Project page](https://github.com/zhangshun97/Machine-Learning-Projects/tree/master/FDU_ML_Final_Project)
 
 ## Project-1: Linear Regression
 
