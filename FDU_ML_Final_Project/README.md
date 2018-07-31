@@ -3,7 +3,7 @@ This is the final project of machine learning course @SDS, Fudan Univ.
 
 The project is co-finished with [Shihan Ran](https://github.com/Rshcaroline) and [Jiancong Gao](https://github.com/jcgao).
 
-#### 1 Authentication
+## 1 Authentication
 
 - Our result:
 
@@ -11,7 +11,7 @@ The project is co-finished with [Shihan Ran](https://github.com/Rshcaroline) and
 
 *More details please refer to [our paper]().*
 
-#### 2 Style Transfer
+## 2 Style Transfer
 
 - Getting Started
   - requirements
