@@ -14,6 +14,7 @@ The project is co-finished with [Shihan Ran](https://github.com/Rshcaroline) and
 ## 2 Style Transfer
 
 - Getting Started
+
   - requirements
 
     - Python 2.7
@@ -26,10 +27,10 @@ The project is co-finished with [Shihan Ran](https://github.com/Rshcaroline) and
 
   - Transfer any style image `style_img_path` to any content image `content_img_path`:
 
-    - ``python neural_style_transfer.py -S style_img_path -C content_img_path`
-    - run ``python neural_style_transfer.py --help` for more arguments
+    - `python neural_style_transfer.py -S style_img_path -C content_img_path`
+    - run `python neural_style_transfer.py --help` for more arguments
 
-    *Any JPG/PNG image with resolution more than `512,512`(GPU) or `128,128`(cpu) shall work.*
+    *Any JPG/PNG image with resolution more than `512,512`(on GPU) or `128,128`(on cpu) shall work.*
 
 - Model Overview
 
