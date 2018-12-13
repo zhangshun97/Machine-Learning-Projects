@@ -9,7 +9,7 @@ The project is co-finished with [Shihan Ran](https://github.com/Rshcaroline) and
 
 ![image](https://github.com/zhangshun97/Machine-Learning-Projects/blob/master/images/authentication.png)
 
-*More details please refer to [our paper]().*
+*More details please refer to [our paper](https://nbviewer.jupyter.org/github/zhangshun97/Machine-Learning-Projects/blob/master/FDU_ML_Final_Project/essay.compressed.pdf).*
 
 ## 2 Style Transfer
 
@@ -40,6 +40,8 @@ The project is co-finished with [Shihan Ran](https://github.com/Rshcaroline) and
 
 ![image](https://github.com/zhangshun97/Machine-Learning-Projects/blob/master/images/styleTransfer2.png)
 
-*More details please refer to [our paper]().*
+![image](https://github.com/zhangshun97/Machine-Learning-Projects/blob/master/images/styleTransfer3.png)
+
+*More details please refer to [our paper](https://nbviewer.jupyter.org/github/zhangshun97/Machine-Learning-Projects/blob/master/FDU_ML_Final_Project/essay.compressed.pdf).*
 
 ## 
